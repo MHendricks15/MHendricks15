@@ -10,11 +10,11 @@
   - [Customer Segmentation and Clustering Project](https://github.com/MHendricks15/Customer-Segmentation-and-Clustering-Project)
   - [Auto MPG Dimensionality Reduction](https://github.com/MHendricks15/Auto-MPG-Dimensionality-Reduction)
 
-<h2>📺 Certifications</h2>
+<h2>📜 Certifications</h2>
 
 - [MIT Applied Data Science Program Certificate](https://www.credential.net/db802eb2-2b86-4afd-99b7-bec01c2e39b8#gs.q1rzow)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 👋 Connect with me:</h2>
 
 [<img align="left" alt="MHendricks15 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
