@@ -3,19 +3,16 @@
 <h2>👨‍💻 Data Science/Analytics Projects:</h2>
 
 - <b>Data Analysis</b>
+  - [Marketing Campaign Data Analysis](https://github.com/MHendricks15/Marketing-Campaign-Data-Analysis)
   - [Uber Case Study Data Analysis](https://github.com/MHendricks15/Uber-Case-Study-Project)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Unsupervised Learning</b>
+  - [Unsupervised Learning Customer Segmentation Capstone Project](https://github.com/MHendricks15/Unsupervised-Learning-Customer-Segmentation-Capstone-Project)
+  - [Customer Segmentation and Clustering Project](https://github.com/MHendricks15/Customer-Segmentation-and-Clustering-Project)
+  - [Auto MPG Dimensionality Reduction](https://github.com/MHendricks15/Auto-MPG-Dimensionality-Reduction)
 
 <h2>📺 Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [MIT Applied Data Science Program Certificate](https://www.credential.net/db802eb2-2b86-4afd-99b7-bec01c2e39b8#gs.q1rzow)
 
 <h2> 🤳 Connect with me:</h2>
 
