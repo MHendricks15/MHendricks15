@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Science/Analytics Projects:</h2>
 
-- <b>Data Analysis (AlgoExpert)</b>
+- <b>Data Analysis</b>
   - [Uber Case Study Data Analysis](https://github.com/MHendricks15/Uber-Case-Study-Project)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
