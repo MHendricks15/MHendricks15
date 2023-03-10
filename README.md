@@ -2,9 +2,10 @@
 
 <h2>👨‍💻 Data Science/Analytics Projects:</h2>
 
-- <b>Data Analysis</b>
+- <b>Data Analysis & Visualization</b>
   - [Marketing Campaign Data Analysis](https://github.com/MHendricks15/Marketing-Campaign-Data-Analysis)
   - [Uber Case Study Data Analysis](https://github.com/MHendricks15/Uber-Case-Study-Project)
+  - [Tableau Comparative Study of Countries](https://github.com/MHendricks15/Tableau-Comparative-Study-of-Countries)
 - <b>Unsupervised Learning</b>
   - [Unsupervised Learning Customer Segmentation Capstone Project](https://github.com/MHendricks15/Unsupervised-Learning-Customer-Segmentation-Capstone-Project)
   - [Customer Segmentation and Clustering Project](https://github.com/MHendricks15/Customer-Segmentation-and-Clustering-Project)
