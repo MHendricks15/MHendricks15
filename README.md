@@ -14,6 +14,7 @@
 <h2>📜 Certifications</h2>
 
 - [MIT Applied Data Science Program Certificate](https://www.credential.net/db802eb2-2b86-4afd-99b7-bec01c2e39b8#gs.q1rzow)
+- [UiPath Certified Professional Associate RPA Developer (UiRPA)](https://credentials.uipath.com/4089d10e-68ca-4a92-8823-22a81b0cd010#acc.D1SQd09C)
 
 <h2> 👋 Connect with me:</h2>
 
